@@ -1,0 +1,6 @@
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\bin\Debug\LabFour.exe.config
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\bin\Debug\LabFour.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\bin\Debug\LabFour.pdb
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\obj\Debug\LabFour.csprojResolveAssemblyReference.cache
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\obj\Debug\LabFour.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFour\LabFour\obj\Debug\LabFour.pdb
